@@ -1,0 +1,16 @@
+.works>h2 {
+    display: inline-block;
+    color: transparent;
+    background-image: linear-gradient(180deg, #ffb6ff, #b344ff);
+    -webkit-background-clip: text;
+    font-size: 48px;
+    font-weight: 600;
+    margin: 20px;
+
+}
+.works__card{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}

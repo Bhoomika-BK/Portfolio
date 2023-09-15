@@ -1,0 +1,14 @@
+.footer{
+display: flex;
+flex-direction: column;
+justify-content: center;
+ align-items: center;
+ 
+ gap:2rem;
+ margin-top: 50px;
+}
+.Social__media{
+    display:flex;
+    gap:2rem;
+
+}

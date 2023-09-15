@@ -1,0 +1,21 @@
+.header{
+display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.header__left
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap:2rem;
+}
+.header__right {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap:2rem;
+}

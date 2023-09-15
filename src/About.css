@@ -1,0 +1,17 @@
+.about>h2
+{
+display: inline-block;
+    color: transparent;
+    background-image: linear-gradient(180deg, #ffb6ff, #b344ff);
+    -webkit-background-clip: text;
+    font-size: 48px;
+    font-weight: 600;
+    margin: 0;
+}
+.about__info{
+    display:flex;
+}
+.about__img>MuiSvgIcon-root{
+font-size: 500px;
+
+}
